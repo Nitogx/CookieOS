@@ -2,7 +2,7 @@
 An operating system written in ASM!
 
 ## About this yes... this
-It's an os written in Assembly or machine code in bare metal ![Metal pipe](https://i.makeagif.com/media/11-19-2024/Ed3caf.gif)
+It's an os written in Assembly or machine code in bare metal <img src="https://i.makeagif.com/media/11-19-2024/Ed3caf.gif" width="30px">)
 that is based off nothing lol and will support  up to 16GB of ram (i hope paging will accept that <img src="https://github.com/Nitogx/CookieOS/blob/main/ReadMe-Icons/pensive.png" width="20px">) and will have a custom window manager n stuff.
 
 ## Is it open-source??
