@@ -1,7 +1,8 @@
 # CookieOS
 An operating system written in ASM!
 
-> ⚠️ **Warning:** Proceed with caution. To build the os you must be an expert or follow a tutorial! I'm serious!!
+>[!WARNING]
+>Proceed with caution. To build the os you must be an expert or follow a tutorial! I'm serious!!
 
 ## About this yes... this
 It's an os written in Assembly or machine code in bare metal <img src="https://s1.ezgif.com/tmp/ezgif-15d3c2575b5eedac.gif" width="50px">
