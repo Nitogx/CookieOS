@@ -31,4 +31,6 @@ fixed the problem of kernel crashing
 - Run MSYS2 (the MinGW64 app) and paste this ```pacman -S mingw-w64-x86_64-binutils```
 - Next, run the .bat file in Command Prompt
 - And run the cookieos.img in your virtualization software! (QEMU recommended)
-***NOTE THAT YOU MIGHT NEED TO RESTART YOUR COMPUTER IF YOU SEE THAT NASM OR LD IS NOT RECOGNIZED AS A EXTERNAL COMMAND OR APPLICATION.***
+
+>[!TIP]
+>***YOU MIGHT NEED TO RESTART YOUR COMPUTER IF YOU SEE THAT NASM OR LD IS NOT RECOGNIZED AS A EXTERNAL COMMAND OR APPLICATION.***
