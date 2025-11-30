@@ -5,10 +5,10 @@ An operating system written in ASM!
 >Proceed with caution. To build the os you must be an expert or follow a tutorial! I'm serious!!
 
 > [!CAUTION]
-> Use caution here.
+> If you wanna make a fork of the os make sure to give me credits and not redistribute it as a dangerous os! Assembly can let you do dangerous things!
 
 > [!IMPORTANT]
-> Important information.
+> The opreratiing system is still in a state of development wich means it's not full and maybe has bugs! Please report them in the Issues tab.
 
 
 ## About this yes... this
