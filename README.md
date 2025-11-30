@@ -4,6 +4,13 @@ An operating system written in ASM!
 >[!WARNING]
 >Proceed with caution. To build the os you must be an expert or follow a tutorial! I'm serious!!
 
+> [!CAUTION]
+> Use caution here.
+
+> [!IMPORTANT]
+> Important information.
+
+
 ## About this yes... this
 It's an os written in Assembly or machine code in bare metal <img src="https://s1.ezgif.com/tmp/ezgif-15d3c2575b5eedac.gif" width="50px">
 that is based off nothing lol and will support  up to 16GB of ram (i hope paging will accept that <img src="https://github.com/Nitogx/CookieOS/blob/main/ReadMe-Icons/pensive.png" width="20px">) and will have a custom window manager n stuff.
