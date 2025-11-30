@@ -29,7 +29,7 @@ objcopy -O binary kernel.elf kernel.bin
 if errorlevel 1 goto error
 
 echo.
-echo [*] Creating bootable image...
+echo [FINALNG] Creating bootable image...
 copy /b boot.bin+kernel.bin cookieos.img
 if errorlevel 1 goto error
 
@@ -43,16 +43,18 @@ echo ===================================
 echo.
 echo To test in QEMU, run:
 echo qemu-system-x86_64 -drive format=raw,file=cookieos.img -m 512M
+echo Or use another Virtualization software!
 echo.
 goto end
 
 :error
 echo.
-echo ===================================
-echo BUILD FAILED!
-echo ===================================
+echo ==========================================================
+echo   BUILD FAILED! Please fix the errors found and rebuild
+echo ==========================================================
 pause
 exit /b 1
 
 :end
+
 pause
